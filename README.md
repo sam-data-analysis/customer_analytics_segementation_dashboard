@@ -108,7 +108,7 @@ Project14_customer_analytics/
 │
 ├── dashboard.pbix
 ├── images/
-│   └── customer_analytics_segmentation_dashboard.png
+│   └── dashboard_overview.png
 └── README.md
 ```
 
