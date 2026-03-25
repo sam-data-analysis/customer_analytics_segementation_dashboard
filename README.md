@@ -108,7 +108,7 @@ customer_analytics_segmentation_dashboard/
 │
 ├── README.md
 ├── customer_analysis.ipynb
-├── customer_analytics_segmentation_dashboard.pbix
+├── Customer_Analytics_Segmentation_Dashboard.pbix
 └── images/
     └── dashboard_overview.png
 ```
