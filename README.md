@@ -104,12 +104,13 @@ Based on the analysis, the business should:
 ## Project Structure
 
 ```plaintext
-Project14_customer_analytics/
+customer_analytics_segmentation_dashboard/
 │
-├── dashboard.pbix
-├── images/
-│   └── dashboard_overview.png
-└── README.md
+├── README.md
+├── customer_analysis.ipynb
+├── customer_analytics_segmentation_dashboard.pbix
+└── images/
+    └── dashboard_overview.png
 ```
 
 ---
