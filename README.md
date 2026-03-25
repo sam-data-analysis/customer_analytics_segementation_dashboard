@@ -31,7 +31,7 @@ This dashboard translates transactional data into clear, actionable insights for
 
 ## Dashboard Preview
 
-<img src="image/dashboard_overview.png" width="800">
+<img src="image/Customer_Analytics_Segmentation_Dashboard.png" width="800">
 
 ---
 
